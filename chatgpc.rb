@@ -100,7 +100,6 @@ class Chatgpc < Formula
     end
 
     def install
-      chmod 0755, "bin/rubybrewtest"
       libexec.install Dir["*"]
 
       virtualenv_install_with_resources
