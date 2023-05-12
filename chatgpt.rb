@@ -3,7 +3,7 @@ class Chatgpt < Formula
 
   desc "Natural language command-line interface powered by OpenAI's ChatGPT"
   homepage 'https://github.com/pdw207/chatgpt-cli'
-  url 'https://github.com/pdw207/chatgpt-cli/archive/refs/tags/v0.2.0.tar.gz'
+  url 'https://github.com/pdw207/chatgpt-cli/releases/download/v0.4.0/bash-chatgpt-cli-0.4.tar.gz'
   sha256 '258046d4fa8fc1775b3381b3dd1f64ecca874963e5bfe4e1a948acfd5ca24457'
   license 'MIT'
 
